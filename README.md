@@ -20,8 +20,6 @@ Tech Stack: Python, C#, ASP.NET Core, SQL.
 
 <br/>  
 
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 
